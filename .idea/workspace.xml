@@ -2,8 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7c75a94-ad0c-4834-9420-b2cc5b6b8cf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ders35.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ders25.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders10.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders11.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders12.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders13.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders14.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders15.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders16.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders17.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders18.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders19.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders20.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders21.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders22.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders23.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders24.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders26.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders27.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders28.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders29.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders30.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders31.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders32.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders33.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders34.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders35.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders4.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders5.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders6.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders7.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders8.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ders9.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders1.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders10.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders10.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders2.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders3.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders4.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders5.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders6.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders7.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders8.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosya ve dizin islemleri/ders9.go" beforeDir="false" afterPath="$PROJECT_DIR$/dosya ve dizin islemleri/ders9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,56 +82,63 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Go Build.go build ders35.go">
-    <configuration name="go build ders31.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dosya ve dizin islemleri" />
+      <recent name="$PROJECT_DIR$/struct islemleri" />
+      <recent name="$PROJECT_DIR$/goroutines islemleri" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build ders10.go">
+    <configuration name="go build ders10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ders31.go" />
+      <filePath value="$PROJECT_DIR$/dosya ve dizin islemleri/ders10.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ders32.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ders6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ders32.go" />
+      <filePath value="$PROJECT_DIR$/dosya ve dizin islemleri/ders6.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ders33.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ders7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ders33.go" />
+      <filePath value="$PROJECT_DIR$/dosya ve dizin islemleri/ders7.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ders34.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ders8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ders34.go" />
+      <filePath value="$PROJECT_DIR$/dosya ve dizin islemleri/ders8.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ders35.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ders9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ders35.go" />
+      <filePath value="$PROJECT_DIR$/dosya ve dizin islemleri/ders9.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build ders35.go" />
-        <item itemvalue="Go Build.go build ders34.go" />
-        <item itemvalue="Go Build.go build ders33.go" />
-        <item itemvalue="Go Build.go build ders32.go" />
-        <item itemvalue="Go Build.go build ders31.go" />
+        <item itemvalue="Go Build.go build ders10.go" />
+        <item itemvalue="Go Build.go build ders9.go" />
+        <item itemvalue="Go Build.go build ders8.go" />
+        <item itemvalue="Go Build.go build ders7.go" />
+        <item itemvalue="Go Build.go build ders6.go" />
       </list>
     </recent_temporary>
   </component>
@@ -106,22 +158,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1580300896696">
+    <state x="415" y="85" key="#go_build_ders1.go" timestamp="1580319034271">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580300896696" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1580300896695">
+    <state x="415" y="85" key="#go_build_ders1.go/0.0.1440.900@0.0.1440.900" timestamp="1580319034271" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1580329469554">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580300896695" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1580300896694">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580329469554" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1580329469553">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580300896694" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1580300896696">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580329469553" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1580329469552">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580300896696" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580329469552" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1580329469554">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580329469554" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1580241894084">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -138,13 +194,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580241894083" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1580221352507">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1580328669258">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580221352507" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580235576774">
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580328669258" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580319986293">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580235576774" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580319986293" />
   </component>
 </project>
