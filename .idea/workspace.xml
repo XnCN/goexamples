@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7c75a94-ad0c-4834-9420-b2cc5b6b8cf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ders31.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ders32.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ders33.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ders34.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ders35.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,15 +39,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Go Build.go build ders34.go">
-    <configuration name="go build ders30.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ders30.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build ders35.go">
     <configuration name="go build ders31.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -83,13 +72,21 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build ders35.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ders35.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build ders35.go" />
         <item itemvalue="Go Build.go build ders34.go" />
         <item itemvalue="Go Build.go build ders33.go" />
         <item itemvalue="Go Build.go build ders32.go" />
         <item itemvalue="Go Build.go build ders31.go" />
-        <item itemvalue="Go Build.go build ders30.go" />
       </list>
     </recent_temporary>
   </component>
@@ -109,22 +106,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1580246284982">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1580300896696">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580246284982" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1580246284981">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580300896696" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1580300896695">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580246284981" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1580246284980">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580300896695" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1580300896694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580246284980" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1580246284981">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580300896694" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1580300896696">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580246284981" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580300896696" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1580241894084">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
